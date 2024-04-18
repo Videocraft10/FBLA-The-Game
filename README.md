@@ -8,7 +8,9 @@
 https://trello.com/b/Yq38NeFH/fbla-the-game
 
 ### Store Pages
-**Itch.io (WIP):** https://videocraft10.itch.io/fbla-the-game
+**Steam (TBD):**
+
+**Itch.io (TBD):** https://videocraft10.itch.io/fbla-the-game
 
 **YouTube:** www.youtube.com/@Videocraft10
 
