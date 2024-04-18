@@ -33,10 +33,15 @@
 ### Programs Used
 
 Unreal Engine
+
 Blender
+
 Adobe Photoshop
+
 Adobe Premiere Pro
+
 Adobe After Effects
+
 Adobe Substance Painter
 
 ### Assets
