@@ -1,6 +1,6 @@
 # FBLA: The Game
 #### Second Place Winner in NJFBLA SLC Computer Science and Simulation Programming 2024
-###### Currently In Pre-Alpha Development
+###### *Currently In Pre-Alpha Development*
 
 ## Offical Sites
 
@@ -8,10 +8,9 @@
 https://trello.com/b/Yq38NeFH/fbla-the-game
 
 ### Store Pages
-#### Itch.io (WIP)
+**Itch.io (WIP):**
 
-#### YouTube
-www.youtube.com/@Videocraft10
+**YouTube:** www.youtube.com/@Videocraft10
 
 ## Credits
 
