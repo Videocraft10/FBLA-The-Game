@@ -1,4 +1,6 @@
-# FBLA: The Game (not final)
+# FBLA: The Game
+#### Second Place Winner in NJFBLA SLC Computer Science and Simulation Programming 2024
+###### Currently In Pre-Alpha Development
 
 ## Roadmap
 ### https://trello.com/b/Yq38NeFH/fbla-the-game
