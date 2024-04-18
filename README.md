@@ -2,8 +2,16 @@
 #### Second Place Winner in NJFBLA SLC Computer Science and Simulation Programming 2024
 ###### Currently In Pre-Alpha Development
 
-## Roadmap
-### https://trello.com/b/Yq38NeFH/fbla-the-game
+## Offical Sites
+
+### Roadmap
+https://trello.com/b/Yq38NeFH/fbla-the-game
+
+### Store Pages
+#### Itch.io (WIP)
+
+#### YouTube
+www.youtube.com/@Videocraft10
 
 ## Credits
 
@@ -60,3 +68,5 @@ All works used in this project are subject to copyright laws. All third-party as
 Copyright © Videocraft Studios/Jourdan Franco. All rights reserved. FBLA: The Game™ and the FBLA: The Game™ logo are trademarks of Jourdan Franco. FBLA: The Game™ uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. In the United States of America and elsewhere. Unreal® Engine, Copyright 1998 - 2024, Epic Games, Inc.
 
 FBLA: The Game © 2024 by Jourdan Franco is licensed under CC BY-SA 4.0 
+
+This game is open source, feel free to download the game and remix and make your own games from this base. Must include credit: (Project made with Videocraft Studios / Jourdan Franco Unreal Project base)
