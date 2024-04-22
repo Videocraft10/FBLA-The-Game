@@ -39,7 +39,7 @@ https://trello.com/b/Yq38NeFH/fbla-the-game
 
 **Graphics/Logo Designer:** Jourdan Franco
 
-**UI Design:**				      Jourdan Franco
+**UI/UX Design:**				      Jourdan Franco
 
 **Writer:**					        Jourdan Franco
 
