@@ -72,4 +72,4 @@ All works used in this project are subject to copyright laws. All third-party as
 Copyright © Videocraft Studios/Jourdan Franco. All rights reserved. FBLA: The Game™ and the FBLA: The Game™ logo are trademarks of Jourdan Franco. FBLA: The Game™ uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. In the United States of America and elsewhere. Unreal® Engine, Copyright 1998 - 2024, Epic Games, Inc.
 
 FBLA: The Game © 2024 by Jourdan Franco is licensed under CC BY-SA 4.0
-This game is open source, feel free to download the game and remix and make your own games from this base. Must include credit: (Project made with Videocraft Studios / Jourdan Franco Unreal Project base)
+This game is open source, feel free to download the game and remix and make your own games from this base. Must include credit.
