@@ -41,9 +41,7 @@ https://trello.com/b/Yq38NeFH/fbla-the-game
 
 **UI/UX Design:**				      Jourdan Franco
 
-**Writer:**					        Jourdan Franco
 
-**Original Music by:**		  Jourdan Franco
 
 **Concept Artists:**			  Jourdan Franco, Adam Yauck
 
