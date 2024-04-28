@@ -41,7 +41,7 @@ https://trello.com/b/Yq38NeFH/fbla-the-game
 
 **UI/UX Design:**				      Jourdan Franco
 
-**Original Music:**           TBD
+**Original Music:**           Retnir: Aiden Wortmann, Justin Brady
 
 **Concept Artists:**			  Jourdan Franco, Adam Yauck
 
