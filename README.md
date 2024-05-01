@@ -59,6 +59,8 @@ Adobe After Effects
 
 Adobe Substance Painter
 
+Ableton Live 12 Lite
+
 ### Assets
 
 Unreal Third Person Template assets, code, and animations were used in this project.
