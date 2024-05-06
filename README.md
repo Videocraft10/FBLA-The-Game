@@ -11,7 +11,7 @@
 https://trello.com/b/Yq38NeFH/fbla-the-game
 
 ### Store Pages
-**Google Drive (all versions):** https://drive.google.com/drive/folders/1vyS0fQ3IwWZsgB8p0s7bchQaok5XcpwR?usp=sharing
+**Google Drive (all versions):** [Click here](https://drive.google.com/drive/folders/1vyS0fQ3IwWZsgB8p0s7bchQaok5XcpwR?usp=sharing)
 
 **Steam (TBD):**
 
