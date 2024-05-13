@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "DiscordRpc",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
