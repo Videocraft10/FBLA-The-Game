@@ -23,9 +23,7 @@ https://trello.com/b/Yq38NeFH/fbla-the-game
 
 **Director:**  				      Jourdan Franco
 
-**Lead Game Designer:**  		Jourdan Franco
-
-**Game Designer:**			    Adam Yacuk
+**Game Designer:**			    Adam Yacuk, Jourdan Franco
 
 **Lead Programmer:**			  Jourdan Franco
 
