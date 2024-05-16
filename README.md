@@ -21,7 +21,7 @@ https://trello.com/b/Yq38NeFH/fbla-the-game
 
 ## Credits
 
-**Director:**  				      Jourdan Franco
+**Director:**  				      Adam Yacuk
 
 **Lead Game Designer:**  		Jourdan Franco
 
