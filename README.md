@@ -3,7 +3,7 @@
 
 # FBLA: The Game
 #### Second Place Winner in NJFBLA SLC Computer Science and Simulation Programming 2024
-###### *Currently In Pre-Alpha Development*
+###### *Discontinued until further notice*
 
 ## Offical Sites
 
@@ -17,33 +17,9 @@ https://trello.com/b/Yq38NeFH/fbla-the-game
 
 **Itch.io (TBD):** https://videocraft10.itch.io/fbla-the-game
 
-**YouTube:** www.youtube.com/@Videocraft10
-
 ## Credits
 
-**Director:**  				      Jourdan Franco
-
-**Game Designer:**			    Adam Yacuk, Jourdan Franco
-
-**Lead Programmer:**			  Jourdan Franco
-
-**Lead Level Design:**			Adam Yacuk
-
-**Level Design:** 				  Jourdan Franco
-
-**Animation:**				      Jourdan Franco
-
-**Character Design:**			  Jourdan Franco
-
-**Modelers:**				        Adam Yacuk, Jourdan Franco
-
-**Graphics/Logo Designer:** Jourdan Franco
-
-**UI/UX Design:**				      Jourdan Franco
-
-**Original Music:**           Retnir: Aidan Wortmann, Justin Brady
-
-**Concept Artists:**			  Jourdan Franco, Adam Yauck
+Created by Jourdan Franco and Adam Yacuk
 
 ### Programs Used
 
@@ -58,8 +34,6 @@ Adobe Premiere Pro
 Adobe After Effects
 
 Adobe Substance Painter
-
-Ableton Live 12 Lite
 
 ### Assets
 
