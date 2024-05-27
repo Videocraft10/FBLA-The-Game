@@ -5,42 +5,6 @@
 #### Second Place Winner in NJFBLA SLC Computer Science and Simulation Programming 2024
 ###### *Discontinued until further notice*
 
-## Offical Sites
-
-### Roadmap
-https://trello.com/b/Yq38NeFH/fbla-the-game
-
-### Store Pages
-**Google Drive (all versions):** [Click here](https://drive.google.com/drive/folders/1vyS0fQ3IwWZsgB8p0s7bchQaok5XcpwR?usp=sharing)
-
-**Steam (TBD):**
-
-**Itch.io (TBD):** https://videocraft10.itch.io/fbla-the-game
-
 ## Credits
 
 Created by Jourdan Franco and Adam Yacuk
-
-### Programs Used
-
-Unreal Engine
-
-Blender
-
-Adobe Photoshop
-
-Adobe Premiere Pro
-
-Adobe After Effects
-
-Adobe Substance Painter
-
-### Assets
-
-Unreal Third Person Template assets, code, and animations were used in this project.
-
-### Copyright Notice
-
-All works used in this project are subject to copyright laws. All third-party assets used were by permission. The FBLA 501(c)(3) not-for-profit corporation has rights and permissions to use this work for any educational and informational purposes. 
-
-Copyright © Videocraft Studios. All rights reserved. FBLA: The Game uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. In the United States of America and elsewhere. Unreal® Engine, Copyright 1998 - 2024, Epic Games, Inc.
